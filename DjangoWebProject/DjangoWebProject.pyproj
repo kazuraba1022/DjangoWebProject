@@ -44,6 +44,7 @@
     <Compile Include="DjangoWebProject\wsgi.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HelloDjangoApp\layout.html" />
     <Content Include="HelloDjangoApp\static\site.css" />
     <Content Include="HelloDjangoApp\templates\about.html" />
     <Content Include="HelloDjangoApp\templates\HelloDjangoApp\index.html" />
