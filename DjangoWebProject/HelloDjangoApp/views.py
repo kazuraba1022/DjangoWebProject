@@ -2,6 +2,9 @@
 # Create your views here.
 from django.shortcuts import render
 from django.shortcuts import render   # Added for this step
+from datetime import datetime
+
+
 
 def index(request):
     now = datetime.now()
